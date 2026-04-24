@@ -1,15 +1,25 @@
 # AI Chatbot 🤖
 
-This is a simple AI chatbot built using Python.
+A chatbot system demonstrating basic Natural Language Processing (NLP) and conversational logic.
 
-## Features:
-- Rule-based conversation system
-- Basic NLP concept demonstration
+## 🚀 Features
+- Rule-based conversational system
 - Interactive command-line interface
+- Keyword-based intent recognition
 
-## Tech Used:
+## 🧠 Concepts Used
+- NLP Basics
+- Conversational AI
+- Logic-based response systems
+
+## 🛠 Tech Stack
 - Python
 
-## Future Improvements:
-- Add machine learning model
-- Improve NLP capabilities
+## 📌 Future Scope
+- Integration with LLMs (GPT-based systems)
+- Context-aware conversations
+- Voice-based interaction
+
+## ▶️ Run
+```bash
+python chatbot.py
